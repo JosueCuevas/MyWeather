@@ -1,0 +1,59 @@
+{
+  "Thunderstorm": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497749/MyWeather/Background/Thunderstorm/day_bi9c7n.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497743/MyWeather/Background/Thunderstorm/night_qpa0g6.jpg"
+  },
+  "Drizzle": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497753/MyWeather/Background/Drizzle/day2_znbzo1.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497743/MyWeather/Background/Drizzle/night_ny2von.png"
+  },
+  "Rain": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497750/MyWeather/Background/Rain/day1_rs7gr6.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497749/MyWeather/Background/Rain/night_swzuwz.png"
+  },
+  "Snow": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497748/MyWeather/Background/Snow/day1_swsqua.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497754/MyWeather/Background/Snow/night1_detvmw.png"
+  },
+  "Mist": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497757/MyWeather/Background/Mist/day_bcwnio.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497738/MyWeather/Background/Mist/night2_mdgjqj.png"
+  },
+  "Smoke": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497740/MyWeather/Background/Smoke/day_xjxw0g.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497740/MyWeather/Background/Smoke/day_xjxw0g.png"
+  },
+  "Haze": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497736/MyWeather/Background/Haze/day_nofcay.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497736/MyWeather/Background/Haze/night2_yexwrv.png"
+  },
+  "Dust": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497737/MyWeather/Background/Sand/sand_zykkyj.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497737/MyWeather/Background/Sand/sand_zykkyj.png"
+  },
+  "Sand": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497737/MyWeather/Background/Sand/sand_zykkyj.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497737/MyWeather/Background/Sand/sand_zykkyj.png"
+  },
+
+  "Ash": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497770/MyWeather/Background/Ash/day_kisdbb.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497726/MyWeather/Background/Ash/night_wtbktk.png"
+  },
+  "Squall": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497739/MyWeather/Background/Squall/day_ks0la2.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497744/MyWeather/Background/Squall/night_vaumi2.png"
+  },
+  "Tornado": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497741/MyWeather/Background/Tornado/d_ecieev.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497741/MyWeather/Background/Tornado/d_ecieev.png"
+  },
+  "Clear": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497724/MyWeather/Background/Clear/day_qx2cn7.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497726/MyWeather/Background/Clear/night_zsxsnc.png"
+  },
+  "Clouds": {
+    "d": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497725/MyWeather/Background/Cloudy/day_veubd0.png",
+    "n": "https://res.cloudinary.com/dokbqdk6g/image/upload/v1683497725/MyWeather/Background/Cloudy/joshy.-._Cloudy_sky_during_the_night_image_captured_by_a_profes_cc2935e2-2e32-4f09-82ee-2a92ebc1174e_ugwqe3.png"
+  }
+}
