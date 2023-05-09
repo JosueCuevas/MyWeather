@@ -4,7 +4,7 @@ import { useLocation } from "react-router-dom";
 import LocationContext from "./LocationContext";
 import LC_Context from "./LastCities";
 
-const WeatherContext = createContext(null);
+const WeatherContext = createContext();
 
 // eslint-disable-next-line react/prop-types
 const WeatherProvider = ({ children }) => {

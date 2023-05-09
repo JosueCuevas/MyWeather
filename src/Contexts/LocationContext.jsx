@@ -1,6 +1,6 @@
 import { createContext, useEffect, useState } from "react";
 
-const LocationContext = createContext(null);
+const LocationContext = createContext();
 
 // eslint-disable-next-line react/prop-types
 const LocationProvider = ({ children }) => {

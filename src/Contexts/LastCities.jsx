@@ -1,7 +1,7 @@
 import { createContext, useState } from "react";
 import LastCities from "../assets/last-cities.json";
 
-const LC_Context = createContext(null);
+const LC_Context = createContext();
 
 // eslint-disable-next-line react/prop-types
 const LC_Provider = ({ children }) => {

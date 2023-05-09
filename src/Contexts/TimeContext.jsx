@@ -2,7 +2,7 @@ import { createContext, useContext, useEffect, useState } from "react";
 import WeatherContext from "./WeatherContext";
 import axios from "axios";
 
-const TimeContext = createContext(null);
+const TimeContext = createContext();
 // eslint-disable-next-line react/prop-types
 const TimeProvider = ({ children }) => {
   /* This code is fetching the timezone of the location specified by the `lat` and `lon` coordinates
