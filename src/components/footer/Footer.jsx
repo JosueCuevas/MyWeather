@@ -1,12 +1,11 @@
 import styled from "styled-components";
 
 const MyFooter = styled.footer`
-  position: absolute;
-  bottom: -35.5%;
   width: 100vw;
   background-color: var(--MW-7);
   display: flex;
   justify-content: space-between;
+  padding-right: 1rem;
 
   p {
     margin: 0;

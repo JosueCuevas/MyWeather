@@ -12,7 +12,6 @@ import styled from "styled-components";
 import images from "../../assets/bg-images.json";
 
 const Mask = styled.div`
-  position: absolute;
   top: 0;
   right: 0;
   left: 0;
